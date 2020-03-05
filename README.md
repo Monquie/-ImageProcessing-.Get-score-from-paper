@@ -1,1 +1,1 @@
-# -ImageProcessing-.Get-score-from-paper
+# ImageProcessing: Get-score-from-paper
